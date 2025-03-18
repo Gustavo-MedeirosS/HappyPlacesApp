@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TODO (Step 4 : Adding the fab_margin value in dimen.xml and using it in the fab_button for margin.)-->
+    <!--START-->
+    <dimen name="fab_margin">16dp</dimen>
+    <!--END-->
+</resources>
