@@ -33,9 +33,16 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
+    buildFeatures {
+        viewBinding = true
+    }
 }
 
 dependencies {
+
+    implementation(libs.dexter)
+
+    implementation(libs.circleimageview)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)

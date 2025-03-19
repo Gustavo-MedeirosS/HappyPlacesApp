@@ -14,8 +14,8 @@
     </style>
 
     <style name="CustomToolbarStyle" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        <item name="android:textColorPrimary">@color/white</item>
-        <item name="android:colorControlNormal">@color/white</item>
+        <item name="android:textColorPrimary">@color/white_color</item>
+        <item name="android:colorControlNormal">@color/white_color</item>
     </style>
 
 </resources>
