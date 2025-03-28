@@ -37,10 +37,11 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".activities.HappyPlaceDetailActivity"
-            android:label="Add Happy Place"
+            android:label="Happy Place Details"
             android:screenOrientation="portrait" />
         <activity
             android:name=".activities.MainActivity"
+            android:theme="@style/CustomNoActionBarTheme"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
