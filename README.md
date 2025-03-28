@@ -9,6 +9,7 @@ Adicionar, atualizar ou deletar os lugares favoritos e visualizar seus detalhes
 - Atualizar informações do lugar
 - Definir dia com DatePickerDialog
 - Escolher foto/imagem do lugar
+- Fornecer a localização atual
 - Pesquisar a localização com base no nome/endereço
 - Manter os lugares salvos no dispositivo
 - Visualizar o lugar no mapa
